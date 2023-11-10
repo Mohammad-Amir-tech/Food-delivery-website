@@ -7,3 +7,8 @@ Future updates may include features such as user accounts, payment integration, 
 
 
 ![Screenshot (3)](https://github.com/Mohammad-Amir-tech/Food-delivery-website/assets/143278584/0bb761b2-df32-40f4-9618-0d2808501695)
+
+
+
+![Screenshot (4)](https://github.com/Mohammad-Amir-tech/Food-delivery-website/assets/143278584/3f341367-366c-4ac1-87a4-833d20f623bb)
+
